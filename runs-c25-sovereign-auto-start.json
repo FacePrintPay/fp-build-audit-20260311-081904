@@ -1,1 +1,3 @@
 [{"conclusion":"success","headBranch":"main","headSha":"c3a0e20d1162a78b11245fe9e584df1b11ed04f4","name":"C25 Pages","startedAt":"2026-02-26T01:08:33Z","status":"completed"},{"conclusion":"success","headBranch":"main","headSha":"c3a0e20d1162a78b11245fe9e584df1b11ed04f4","name":"pages build and deployment","startedAt":"2026-02-26T01:08:30Z","status":"completed"}]
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=runs-c25-sovereign-auto-start.json
